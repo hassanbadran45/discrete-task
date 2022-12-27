@@ -1,0 +1,15 @@
+C:\Users\shadw\source\repos\project1Fcis\project1Fcis\obj\Debug\net6.0\project1Fcis.csproj.AssemblyReference.cache
+C:\Users\shadw\source\repos\project1Fcis\project1Fcis\obj\Debug\net6.0\project1Fcis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shadw\source\repos\project1Fcis\project1Fcis\obj\Debug\net6.0\project1Fcis.AssemblyInfoInputs.cache
+C:\Users\shadw\source\repos\project1Fcis\project1Fcis\obj\Debug\net6.0\project1Fcis.AssemblyInfo.cs
+C:\Users\shadw\source\repos\project1Fcis\project1Fcis\obj\Debug\net6.0\project1Fcis.csproj.CoreCompileInputs.cache
+C:\Users\shadw\source\repos\project1Fcis\project1Fcis\bin\Debug\net6.0\project1Fcis.exe
+C:\Users\shadw\source\repos\project1Fcis\project1Fcis\bin\Debug\net6.0\project1Fcis.deps.json
+C:\Users\shadw\source\repos\project1Fcis\project1Fcis\bin\Debug\net6.0\project1Fcis.runtimeconfig.json
+C:\Users\shadw\source\repos\project1Fcis\project1Fcis\bin\Debug\net6.0\project1Fcis.dll
+C:\Users\shadw\source\repos\project1Fcis\project1Fcis\bin\Debug\net6.0\project1Fcis.pdb
+C:\Users\shadw\source\repos\project1Fcis\project1Fcis\obj\Debug\net6.0\project1Fcis.dll
+C:\Users\shadw\source\repos\project1Fcis\project1Fcis\obj\Debug\net6.0\refint\project1Fcis.dll
+C:\Users\shadw\source\repos\project1Fcis\project1Fcis\obj\Debug\net6.0\project1Fcis.pdb
+C:\Users\shadw\source\repos\project1Fcis\project1Fcis\obj\Debug\net6.0\project1Fcis.genruntimeconfig.cache
+C:\Users\shadw\source\repos\project1Fcis\project1Fcis\obj\Debug\net6.0\ref\project1Fcis.dll
